@@ -32,7 +32,7 @@
 ## 安装
 
 1. 在飞牛应用中心先装好 **Mali GPU Driver**
-2. 下载本页 Release 里的 `rkplayer-0.2.5-arm.fpk`
+2. 下载本页 Release 里的 `rkplayer-0.2.6-arm.fpk`
 3. 应用中心 → 手动安装 → 选这个文件
 4. 安装向导里填影视服务器地址、账号密码
 
@@ -40,7 +40,7 @@
 
 首次启动有 **7 天试用**，到期后需要授权码。
 
-- 【闲鱼】<https://m.tb.cn/h.jUFTNbw?tk=JwFzTyXvRvT> HU926 购买授权码
+- 【闲鱼】<https://m.tb.cn/h.jfUM2k3?tk=QpAmTydB5Dk> HU926 购买授权码
 
 点击链接直接打开
 
