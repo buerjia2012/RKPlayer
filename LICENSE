@@ -1,0 +1,105 @@
+rkplayer 授权许可协议
+
+版权所有 (c) 2026 buerjia2012。保留所有权利。
+
+本许可适用于本仓库 https://github.com/buerjia2012/RKPlayer 内的全部内容，包括
+README 文档、截图，以及在 Releases 中发布的安装包（rkplayer-*.fpk）及其包含的
+全部二进制、脚本、图标与字体文件（以下合称“本软件”）。
+
+
+一、允许
+
+1. 免费使用：下载、安装、运行本软件，个人与家庭使用免费，无附加条件。
+2. 免费试用：从首次启动起 7 天内可免费使用全部功能，无需注册、无需联网。
+3. 免费转发：复制、上传、分享未经修改的完整安装包，渠道不限（网盘、群聊、
+   论坛、视频简介、U 盘拷贝均可），无需事先获得许可。转发时请保留本许可文件。
+4. 免费引用：在文章、视频、教程、评测中使用本仓库的截图与文字说明，
+   注明「来源：RKPlayer」即可，无需单独授权。
+
+
+二、禁止
+
+1. 禁止逆向：对本软件的二进制文件进行反编译、反汇编、动态注入、调试或其它
+   形式的逆向工程；移除、绕过、伪造授权校验，包括但不限于替换验签函数、
+   修改试用记录、劫持验签调用。
+2. 禁止改包分发：修改安装包内容后再分发，包括替换、删除、增加文件，
+   以及二次打包、改名后重新发布。
+3. 禁止商用：出售、出租、转售本软件或其安装包；将本软件捆绑进商业产品、
+   付费服务、代安装服务或硬件产品中销售。
+4. 禁止抹除标识：移除或隐藏版权声明、试用提示、授权页面与购买入口。
+5. 禁止盗用授权码：使用或传播他人授权码，或将授权码出租、共享、转售。
+
+
+三、授权码
+
+1. 授权码与设备机器码绑定，仅限购买者在自己的设备上使用。
+2. 授权码不可转让、不可出租、不可与他人共享；一台设备一个码。
+3. 因更换硬件导致机器码变化的，请联系作者按实际情况处理。
+4. 授权码为一次性数字商品，激活后不适用七天无理由退货；确有技术问题
+   导致无法激活的，可联系作者换码或退款。
+
+
+四、免责
+
+本软件按「现状」提供，不附带任何明示或默示的担保，包括但不限于适销性、
+特定用途适用性、不侵权担保。
+
+在适用法律允许的最大范围内，作者不对使用或无法使用本软件所造成的任何直接、
+间接、偶然、特殊或后果性损害承担责任，包括但不限于数据丢失、设备损坏、
+播放中断、账号信息泄露或利润损失。
+
+使用本软件即表示你已阅读并同意本协议；如不同意，请立即停止使用并删除本软件。
+
+
+五、第三方组件
+
+本软件包含或依赖以下第三方组件，它们分别适用各自的许可协议，不受本协议约束：
+
+  Qt 5（Core / Gui / Qml / Quick / Network / DBus）   LGPL-3.0
+      安装包内附带 .so，以动态链接方式使用
+  Qt Quick QML 插件（libqtquick2plugin.so 等）        LGPL-3.0
+      安装包内附带
+  DroidSansFallbackFull.ttf                          Apache-2.0
+      安装包内附带
+  GStreamer、Rockchip MPP、FFmpeg                    各自许可
+      由飞牛 fnOS 系统提供，不随本安装包分发
+
+上述组件的完整许可文本可从其官方仓库获取。Qt 采用动态链接，你可以自行将上述
+.so 文件替换为兼容版本的官方构建产物。
+
+
+六、协议变更
+
+作者保留随时修改本协议的权利。已发布的版本按其发布时的协议条款执行。
+
+
+---
+
+English summary
+
+rkplayer is proprietary software, distributed as a free 7-day trial with a paid
+per-device license key.
+
+You MAY: download, install and use the software; share the UNMODIFIED installer
+package free of charge through any channel; quote this repository's screenshots
+and text with attribution to "RKPlayer".
+
+You MAY NOT: reverse engineer, decompile, patch or inject into the binaries;
+bypass, remove or forge the license check (including patching the verification
+routine, editing trial records, or hooking the signature call); redistribute
+modified or repackaged installers; sell, rent or bundle the software into a
+commercial product, paid service or hardware product; remove copyright, trial or
+purchase notices; share or resell license keys.
+
+License keys are bound to a device machine ID and are non-transferable.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Bundled third-party components remain under their own licenses: Qt 5 and Qt
+Quick plugins (LGPL-3.0, dynamically linked), DroidSansFallbackFull.ttf
+(Apache-2.0). GStreamer, Rockchip MPP and FFmpeg are provided by fnOS itself and
+are not distributed with this package.
