@@ -2,14 +2,14 @@
 
 飞牛 fnOS 上的电视端影视海报墙播放器，为 **RK3568** 这类 Rockchip 电视盒子 / 板卡做的。
 
-用遥控器方向键操作的 10-foot 界面，走 RK3568 的硬件解码看 4K HDR，支持多音轨切换和内嵌字幕。
+用遥控器方向键操作，走 RK3568 的硬件解码看 4K HDR，支持多音轨切换和内嵌字幕。
 
 ![海报墙](screenshots/01-poster-wall.jpg)
 
 ## 截图
 
-| 详情页 | 播放器 |
-| --- | --- |
+| 详情页                                               | 播放器                                               |
+| ------------------------------------------------- | ------------------------------------------------- |
 | <img src="screenshots/02-detail.jpg" width="480"> | <img src="screenshots/03-player.jpg" width="480"> |
 
 ## 环境要求
@@ -40,7 +40,7 @@
 
 首次启动有 **7 天试用**，到期后需要授权码。
 
-- 【闲鱼】https://m.tb.cn/h.jUFTNbw?tk=JwFzTyXvRvT HU926 购买授权码
+- 【闲鱼】<https://m.tb.cn/h.jUFTNbw?tk=JwFzTyXvRvT> HU926 购买授权码
 
 点击链接直接打开
 
